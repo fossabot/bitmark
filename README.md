@@ -10,6 +10,7 @@ This repository contains the Bitmark cryptograpic currency software, and a wiki 
 # Bitmark
 
 [![Join the chat at https://gitter.im/project-bitmark/bitmark](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/project-bitmark/bitmark?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbitmark.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbitmark?ref=badge_shield)
 
 Bitmark aims to be a relatively stable, user focused crypto currency, which refines and implements maturing innovations from the crypto currency sector.
 
@@ -98,3 +99,7 @@ There are currently 3 types of tests implemented.
 ## Merge Mining
 
 Also part of the hard fork is merge mining, a way to increase the hashpower security of the chain by allowing the mining of the chain simultaneously with other chains. All 8 algorithms are supported.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbitmark.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbitmark?ref=badge_large)
